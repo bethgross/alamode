@@ -24,6 +24,17 @@ h1.mode-error {
   font-weight: 500;
 }
 
+/*My hopeless attempt at styling*/
+.mode-graphic-container-attempt {
+  border: 1px solid #F2F3F3;
+  background: #FF5733;
+  max-width: 1162px;
+  margin: 0 auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  overflow: scroll;
+}
+
 /*Retention heatmap styling*/
 .mode-retention-heatmap-pivot-label {
   font-size: 12px;
